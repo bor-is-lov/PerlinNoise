@@ -1,4 +1,7 @@
-﻿# siv::PerlinNoise
+## About fork
+This fork is made to make the library compatible with C++14. Since I'm not a master of writing libraries, all changes are made by AI.
+
+# siv::PerlinNoise
 ![noise](images/top.png)
 
 **siv::PerlinNoise** is a header-only Perlin noise library for modern C++ (C++17/20).  
